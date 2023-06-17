@@ -16,4 +16,8 @@
    <img src="">
 
 # ENDING REMARKS
-<p align="justify"> </p>
+<p align="justify"> Appointway is an all-inclusive and time-saving appointment management system we appreciate you checking out. It is your one-stop-shop for appointment administration and optimization, with features like appointment booking, message requests, a list of booked appointments, user profiles, blocked time management, and messaging capabilities. </p>
+<p align="justify">Appointway removes the bother of traditional appointment scheduling. Whether you're a professional with a packed schedule, a company with many clients, or a service provider, our platform can help you stay on top of everything. </p>
+<p align="justify">It was created out of the recognition that time is a scarce resource. Our straightforward layout, user-friendly controls, and robust features are here to streamline business processes and cut down on unnecessary paperwork. Focus on what you do best while Appointway takes care of the details of scheduling appointments. </p>
+<p align="justify">We're dedicated to making Appointway better and better so that it can keep up with your changing requirements. Don't be shy about letting us know what you think, making recommendations, or reporting problems you run into; we really value your input. </p>
+<p align="justify">We appreciate you considering Appointway as your go-to service for scheduling appointments. We can't wait to assist you with all of your scheduling needs. </p>
