@@ -38,7 +38,9 @@
    <img src="images/353630523_129496643465064_442143288117571315_n.png">
    <br>
 9. The **List of Booked Appointments**, this is where you can find all the list of booked appointments in your account, this is where you can check which one is going first and so on.
-10. <img src="">
+    <img src="images/348388697_985636569290682_6854331067716154103_n.png">
+10. The **List of Blocked Time**, this is where you can block a time when this showed time is not available for you and send a message consisting of your declining reasons
+    <img src="">
 
 # ENDING REMARKS
 <p align="justify"> Appointway is an all-inclusive and time-saving appointment management system we appreciate you checking out. It is your one-stop-shop for appointment administration and optimization, with features like appointment booking, message requests, a list of booked appointments, user profiles, blocked time management, and messaging capabilities. </p>
