@@ -42,6 +42,8 @@
 10. The **List of Blocked Time**, this is where you can block a time when this showed time is not available for you and send a message consisting of your declining reasons
     <img src="images/353914944_3530728920505978_7702134600463433608_n.png">
 11. The **Your Profile**, this is where you can see and spectate your user account profile.
+    <img src="images/352885022_2253686508352383_548486729881524294_n.png">
+12. The **Message**, this is another way of contacting your friend, this is where you can include your message and the reason of sending messages.
     <img src="">
 
 # ENDING REMARKS
