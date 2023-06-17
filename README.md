@@ -17,7 +17,8 @@
 2. Sign Up, this where you will register an account to continue on the website
    <img src="images/354178069_1419089038849619_4482701630516836004_n.png">
 3. The Homepage, this is where you will go after logging in your account. The homepage is where all the functionalities can be found.
-   <img src="">
+   <img src="images/353671963_525574069656384_1923391223063323509_n.png">
+4. The **About**
 
 # ENDING REMARKS
 <p align="justify"> Appointway is an all-inclusive and time-saving appointment management system we appreciate you checking out. It is your one-stop-shop for appointment administration and optimization, with features like appointment booking, message requests, a list of booked appointments, user profiles, blocked time management, and messaging capabilities. </p>
