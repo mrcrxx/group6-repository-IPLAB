@@ -26,6 +26,9 @@
    <img src="images/354224528_972621904081891_7855556519459807934_n.png">
 7. The **Make An Appointment**, this is where you will set the date and time and fill up the name of the person and the purpose of your appointment to him/her
    <img src="images/354365346_226557630242779_8100347105064787253_n.png">
+8. The **Message Request**, this is where all the appointment will be receive and the user/you have a option on either accepting it or not, when decline, you will be transported to the **Reason** page where you will state your reason on declining.
+   <img src="">
+   <img src="">
 
 # ENDING REMARKS
 <p align="justify"> Appointway is an all-inclusive and time-saving appointment management system we appreciate you checking out. It is your one-stop-shop for appointment administration and optimization, with features like appointment booking, message requests, a list of booked appointments, user profiles, blocked time management, and messaging capabilities. </p>
