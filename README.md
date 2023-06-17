@@ -40,6 +40,8 @@
 9. The **List of Booked Appointments**, this is where you can find all the list of booked appointments in your account, this is where you can check which one is going first and so on.
     <img src="images/348388697_985636569290682_6854331067716154103_n.png">
 10. The **List of Blocked Time**, this is where you can block a time when this showed time is not available for you and send a message consisting of your declining reasons
+    <img src="images/353914944_3530728920505978_7702134600463433608_n.png">
+11. The **Your Profile**, this is where you can see and spectate your user account profile.
     <img src="">
 
 # ENDING REMARKS
