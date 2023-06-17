@@ -20,7 +20,8 @@
 4. The **About**, this is a webpage consist of some extra information about the website
    <img src="images/353606831_239251888858045_6292004413182917690_n.png">
 5. The **Team**, is a webpage which is only about the people behind of this project
-   <img src="">
+   <img src="images/353074125_994437454885711_2190003542729801582_n.png">
+   <img src="images/353748747_1668342023648051_5757667454553353171_n.png">
 
 # ENDING REMARKS
 <p align="justify"> Appointway is an all-inclusive and time-saving appointment management system we appreciate you checking out. It is your one-stop-shop for appointment administration and optimization, with features like appointment booking, message requests, a list of booked appointments, user profiles, blocked time management, and messaging capabilities. </p>
