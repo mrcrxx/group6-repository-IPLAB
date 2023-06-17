@@ -13,7 +13,7 @@
 # INSTRUCTIONS
 1. Log In
    
-   <img src="">
+   <img src="images/353372780_195505626805875_3660768009382788578_n.png">
 
 # ENDING REMARKS
 <p align="justify"> Appointway is an all-inclusive and time-saving appointment management system we appreciate you checking out. It is your one-stop-shop for appointment administration and optimization, with features like appointment booking, message requests, a list of booked appointments, user profiles, blocked time management, and messaging capabilities. </p>
