@@ -25,7 +25,7 @@
 6. The **Contact**, this is where you can locate the customer contact information, whereyou will be contacting when you faced issues.
    <img src="images/354224528_972621904081891_7855556519459807934_n.png">
 7. The **Make An Appointment**, this is where you will set the date and time and fill up the name of the person and the purpose of your appointment to him/her
-   <img src="">
+   <img src="images/354365346_226557630242779_8100347105064787253_n.png">
 
 # ENDING REMARKS
 <p align="justify"> Appointway is an all-inclusive and time-saving appointment management system we appreciate you checking out. It is your one-stop-shop for appointment administration and optimization, with features like appointment booking, message requests, a list of booked appointments, user profiles, blocked time management, and messaging capabilities. </p>
