@@ -15,6 +15,8 @@
    
    <img src="images/353372780_195505626805875_3660768009382788578_n.png">
 2. Sign Up, this where you will register an account to continue on the website
+   <img src="images/354178069_1419089038849619_4482701630516836004_n.png">
+3. The Homepage, this is where you will go after logging in your account. The homepage is where all the functionalities can be found.
    <img src="">
 
 # ENDING REMARKS
