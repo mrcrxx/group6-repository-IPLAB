@@ -18,6 +18,8 @@
 3. The **Homepage**, this is where you will go after logging in your account. The homepage is where all the functionalities can be found.
    <img src="images/353671963_525574069656384_1923391223063323509_n.png">
 4. The **About**, this is a webpage consist of some extra information about the website
+   <img src="images/353606831_239251888858045_6292004413182917690_n.png">
+5. The **Team**, is a webpage which is only about the people behind of this project
    <img src="">
 
 # ENDING REMARKS
