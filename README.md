@@ -11,14 +11,14 @@
 <p align="justify"> We all believe that time is precious, every tick of the clock means everything to everyone. Appointway is here to help you organize, manage, all of your appointments. May it be in work, school or something personal, Appointway is here with you, enjoy the effortless management of your time.</p>
 
 # INSTRUCTIONS
-1. Log In, this is where you will put your account information ( if you don't have an account, please proceed to step 2)
-   
+1. **Log In**, this is where you will put your account information ( if you don't have an account, please proceed to step 2)
    <img src="images/353372780_195505626805875_3660768009382788578_n.png">
-2. Sign Up, this where you will register an account to continue on the website
+2. **Sign Up**, this where you will register an account to continue on the website
    <img src="images/354178069_1419089038849619_4482701630516836004_n.png">
-3. The Homepage, this is where you will go after logging in your account. The homepage is where all the functionalities can be found.
+3. The **Homepage**, this is where you will go after logging in your account. The homepage is where all the functionalities can be found.
    <img src="images/353671963_525574069656384_1923391223063323509_n.png">
-4. The **About**
+4. The **About**, this is a webpage consist of some extra information about the website
+   <img src="">
 
 # ENDING REMARKS
 <p align="justify"> Appointway is an all-inclusive and time-saving appointment management system we appreciate you checking out. It is your one-stop-shop for appointment administration and optimization, with features like appointment booking, message requests, a list of booked appointments, user profiles, blocked time management, and messaging capabilities. </p>
