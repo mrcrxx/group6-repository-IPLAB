@@ -11,7 +11,7 @@
 <p align="justify"> We all believe that time is precious, every tick of the clock means everything to everyone. Appointway is here to help you organize, manage, all of your appointments. May it be in work, school or something personal, Appointway is here with you, enjoy the effortless management of your time.</p>
 
 # INSTRUCTIONS
-1. Log In
+1. Log In, this is where you will put your account information ( if you don't have an account, please proceed to step 2)
    
    <img src="images/353372780_195505626805875_3660768009382788578_n.png">
 
