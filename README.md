@@ -14,6 +14,8 @@
 1. Log In, this is where you will put your account information ( if you don't have an account, please proceed to step 2)
    
    <img src="images/353372780_195505626805875_3660768009382788578_n.png">
+2. Sign Up, this where you will register an account to continue on the website
+   <img src="">
 
 # ENDING REMARKS
 <p align="justify"> Appointway is an all-inclusive and time-saving appointment management system we appreciate you checking out. It is your one-stop-shop for appointment administration and optimization, with features like appointment booking, message requests, a list of booked appointments, user profiles, blocked time management, and messaging capabilities. </p>
